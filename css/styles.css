@@ -1,7 +1,9 @@
+
 body {
   margin: 0;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
+  line-height: 2;
 }
 
 h1 {
@@ -17,6 +19,26 @@ h2{
 
 h3{
   color: #11999E;
+}
+
+#se{
+  padding-left: 45px;
+}
+
+#army{
+  padding-left: 25px;
+}
+
+#shoe{
+  padding-left: 50px;
+}
+
+#coffee{
+  padding-left: 40px;
+}
+
+#cart{
+  padding-left: 40px;
 }
 
 ul{
@@ -47,16 +69,29 @@ ul{
   bottom: 300px;
 }
 
+.SE{
+  height: 200px;
+  padding-left: 20px;
+}
+
+.Army{
+  height: 200px;
+    padding-left: 30px;
+}
+
 .sneaker{
   height: 200px;
+    padding-left: 30px;
 }
 
 .starbucks{
   height: 200px;
+    padding-left: 30px;
 }
 
 .picker{
   height: 200px;
+    padding-left: 20px;
 }
 
 .skill-row{
