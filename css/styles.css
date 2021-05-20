@@ -8,6 +8,15 @@ h1 {
   font-size: 5.625rem;
   margin-bottom: 0;
   font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2{
+  color: #66BFBF;
+}
+
+h3{
+  color: #11999E;
 }
 
 ul{
