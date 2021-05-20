@@ -16,6 +16,8 @@ ul{
 
 .profilepic{
   height: 250px;
+  border-radius: 130px;
+  border-style: solid;
 }
 
 .top {
@@ -48,6 +50,12 @@ ul{
   height: 200px;
 }
 
-.character-row{
+.skill-row{
   background-color: #a9f1df;
+}
+
+
+.table{
+margin-left: auto;
+margin-right: auto;
 }
