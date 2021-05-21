@@ -27,6 +27,10 @@ a{
   color: #233e8b;
 }
 
+a:hover{
+ color: #EAF6F6; 
+}
+
 
 ul{
   list-style: none;
@@ -93,4 +97,9 @@ ul{
 .table{
 margin-left: auto;
 margin-right: auto;
+}
+
+
+.copyright{
+ color: #EAF6F6; 
 }
